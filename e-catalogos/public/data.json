@@ -1,0 +1,161 @@
+{
+    "products": [
+        {
+            "id": 7067,
+            "name": "Mochila",
+            "reference": "67.15.1340",
+            "gender": "Masculino",
+            "category": "Mochilas",
+            "subcategory": null,
+            "prompt_delivery": true,
+            "skus": [
+                {
+                    "id": 73315,
+                    "size": "G",
+                    "stock": 500,
+                    "open_grid": false,
+                    "min_quantity": 2
+                },
+                {
+                    "id": 73316,
+                    "size": "GG",
+                    "stock": 500,
+                    "open_grid": false,
+                    "min_quantity": 4
+                },
+                {
+                    "id": 73314,
+                    "size": "M",
+                    "stock": 500,
+                    "open_grid": false,
+                    "min_quantity": 1
+                },
+                {
+                    "id": 73313,
+                    "size": "P",
+                    "stock": 500,
+                    "open_grid": false,
+                    "min_quantity": 5
+                }
+            ],
+            "companies": {
+                "key": 2007
+            },
+            "brand": "Marca Moda",
+            "price": 21,
+            "colors": [],
+            "images": [
+                {
+                    "id": 34443,
+                    "order": 1,
+                    "path": "https://api.forca-de-vendas.integrador.e-catalogos.net/images/2007/1102-1714656377245.jpg"
+                }
+            ]
+        },
+        {
+            "id": 7072,
+            "name": "Mochila",
+            "reference": "67.15.7671",
+            "gender": "Masculino",
+            "category": "Mochilas",
+            "subcategory": null,
+            "prompt_delivery": true,
+            "skus": [
+                {
+                    "id": 73354,
+                    "size": "G",
+                    "stock": 500,
+                    "open_grid": false,
+                    "min_quantity": 5
+                },
+                {
+                    "id": 73355,
+                    "size": "GG",
+                    "stock": 500,
+                    "open_grid": false,
+                    "min_quantity": 1
+                },
+                {
+                    "id": 73353,
+                    "size": "M",
+                    "stock": 500,
+                    "open_grid": false,
+                    "min_quantity": 5
+                },
+                {
+                    "id": 73352,
+                    "size": "P",
+                    "stock": 500,
+                    "open_grid": false,
+                    "min_quantity": 2
+                }
+            ],
+            "companies": {
+                "key": 2007
+            },
+            "brand": "Marca Moda",
+            "price": 59,
+            "colors": [],
+            "images": [
+                {
+                    "id": 34442,
+                    "order": 1,
+                    "path": "https://api.forca-de-vendas.integrador.e-catalogos.net/images/2007/1101-1714656345010.jpg"
+                }
+            ]
+        },
+       
+        {
+            "id": 7050,
+            "name": "Chinelo",
+            "reference": "67.15.2201",
+            "gender": "Masculino",
+            "category": "Chinelos",
+            "subcategory": null,
+            "prompt_delivery": true,
+            "skus": [
+                {
+                    "id": 73247,
+                    "size": "G",
+                    "stock": 500,
+                    "open_grid": false,
+                    "min_quantity": 3
+                },
+                {
+                    "id": 73248,
+                    "size": "GG",
+                    "stock": 500,
+                    "open_grid": false,
+                    "min_quantity": 5
+                },
+                {
+                    "id": 73246,
+                    "size": "M",
+                    "stock": 500,
+                    "open_grid": false,
+                    "min_quantity": 5
+                },
+                {
+                    "id": 73245,
+                    "size": "P",
+                    "stock": 500,
+                    "open_grid": false,
+                    "min_quantity": 6
+                }
+            ],
+            "companies": {
+                "key": 2007
+            },
+            "brand": "Marca Moda",
+            "price": 41,
+            "colors": [],
+            "images": [
+                {
+                    "id": 34423,
+                    "order": 1,
+                    "path": "https://api.forca-de-vendas.integrador.e-catalogos.net/images/2007/504-1714656261691.jpg"
+                }
+            ]
+        } 
+    ]
+}

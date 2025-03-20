@@ -1,0 +1,44 @@
+.containervalor {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 12px;
+    padding: 2px;
+    width: 100%; 
+    max-width: 500px; 
+    margin: 0 auto; 
+}
+
+.preco {
+    color: #323131;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+.removeadd {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.removeadd img {
+    width: 32px;
+    cursor: pointer;
+}
+
+.removeadd p {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    width: 40px;
+    border: 1px solid #6f97ab;
+    color: #809caa;
+    padding: 4px;
+}
+
+.desc {
+    color: #000000;
+    font-weight: 500;
+}

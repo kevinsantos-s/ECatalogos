@@ -1,0 +1,39 @@
+.carousel-container {
+    position: relative;
+    border-bottom: 3px solid #809caa;
+    overflow: hidden;
+    flex-grow: 1;
+    height: 1%;
+}
+
+.carousel {
+    position: relative;
+    display: flex;
+    transition: transform 0.5s ease 0s;
+    width: 100%;
+    height: 100%;
+}
+
+.product {
+    flex: 0 0 100%;    
+}
+
+.return-arrow {
+    position: absolute;
+    bottom: 40px;
+    left: 20px;
+    cursor: pointer;
+}
+
+.image {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+.forward-arrow {
+    position: absolute;
+    bottom: 40px;
+    right: 20px;
+    cursor: pointer;
+}

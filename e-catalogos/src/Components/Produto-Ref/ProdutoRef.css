@@ -1,0 +1,38 @@
+.produtoref-container {
+    padding: 6px 0;
+}
+
+.ref {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 8px 20px;
+}
+
+.name {
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.codigo {
+    color: #024650;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.codigo span {
+    color: #001a1e;
+}
+
+.preco {
+    color: #001a1e;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.price span {
+    color: #024650;
+    font-size: 14px;
+}
